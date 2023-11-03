@@ -2,15 +2,8 @@
 
 Dark theme simple product card UI
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
+![pic](https://github.com/SD2B/Product-Card---Simple-UI/assets/148523927/1679c567-786b-4b33-94b8-749884fce283)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/SD2B/Product-Card---Simple-UI/assets/148523927/05dc165d-fb1a-4e21-9758-a14b122a681b
